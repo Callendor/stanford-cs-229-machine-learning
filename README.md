@@ -1,6 +1,6 @@
 # Machine Learning cheatsheets for Stanford's CS 229
 
-Available in [English](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en) -  [Español](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/es) -  [فارسی](https://stanford.edu/~shervine/l/fa/teaching/cs-229/cheatsheet-supervised-learning) -  [Français](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr) -  [Português](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/pt) -  [中文](https://stanford.edu/~shervine/l/zh/teaching/cs-229/cheatsheet-supervised-learning)
+Available in [English](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en) -  [Español](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/es) -  [فارسی](https://stanford.edu/~shervine/l/fa/teaching/cs-229/cheatsheet-supervised-learning) -  [Français](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr) -  [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) -  [Português](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/pt) -  [Türkçe](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-supervised-learning) -  [中文](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh)
 
 ## Goal
 This repository aims at summing up in the same place all the important notions that are covered in Stanford's CS 229 Machine Learning course, and include:
@@ -21,7 +21,7 @@ This repository aims at summing up in the same place all the important notions t
 <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf"><img src="https://stanford.edu/~shervine/images/super-vip-cheatsheet.png" alt="Illustration" width="400px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; All the above gathered in one place
 
 ## Website
-This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-229.html), so that you can enjoy reading it from any device.
+This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-229), so that you can enjoy reading it from any device.
 
 ## Translation
 Would you like to see these cheatsheets in your native language? You can help us translating them on [this dedicated repo](https://github.com/shervinea/cheatsheet-translation)!

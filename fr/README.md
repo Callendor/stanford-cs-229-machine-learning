@@ -1,4 +1,6 @@
 # Pense-bêtes de Machine Learning pour CS 229 de Stanford
+Disponible en [English](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en) -  [Español](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/es) -  [فارسی](https://stanford.edu/~shervine/l/fa/teaching/cs-229/cheatsheet-supervised-learning) -  [Français](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr) -  [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) -  [Português](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/pt) -  [Türkçe](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-supervised-learning) -  [中文](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh)
+
 ## But
 Ce repo a pour but de résumer toutes les notions importantes du cours de Machine Learning (CS 229) de Stanford, et inclut en particulier :
 - **Rappels** de mathématiques qui soulignent les **pré-requis du cours**.
@@ -18,7 +20,7 @@ Ce repo a pour but de résumer toutes les notions importantes du cours de Machin
 <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fr/super-pense-bete-machine-learning.pdf"><img src="https://stanford.edu/~shervine/images/super-vip-cheatsheet.png" alt="Illustration" width="400px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tous les concepts rassemblés à un seul endroit
 
 ## Site
-Les fiches sont aussi disponibles sur un [site dedié](https://stanford.edu/~shervine/teaching/cs-229.html), de manière à ce que vous puissiez les parcourir à partir de n'importe quel appareil.
+Les fiches sont aussi disponibles sur un [site dedié](https://stanford.edu/~shervine/l/fr/teaching/cs-229), de manière à ce que vous puissiez les parcourir à partir de n'importe quel appareil.
 
 ## Auteurs
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) et [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
